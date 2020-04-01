@@ -1,1 +1,1 @@
-# CSE258_WebMining-RecommenderSystems
+# Web Mining and Recommender Systems
